@@ -1,0 +1,64 @@
+
+POLÍTICA DE SOPORTE TÉCNICO GENERAL
+El área de Tecnología proporciona soporte a todos los empleados para garantizar el funcionamiento correcto de los equipos, sistemas y servicios digitales de la empresa. Las solicitudes deben realizarse a través del portal de soporte o enviando un correo a soporte@empresa.com. El horario de atención es de lunes a viernes de 8:00 a 18:00.
+
+POLÍTICA DE USO DE EQUIPOS DE CÓMPUTO
+Cada empleado es responsable del uso adecuado de su equipo asignado. Está prohibido instalar software no autorizado o realizar modificaciones en la configuración del sistema sin aprobación del área de TI. Los equipos deben mantenerse actualizados y protegidos con antivirus corporativo. Cualquier daño o pérdida debe reportarse inmediatamente al área de soporte.
+
+POLÍTICA DE CONTRASEÑAS Y SEGURIDAD DE CUENTAS
+Las contraseñas deben tener al menos 12 caracteres e incluir mayúsculas, minúsculas, números y símbolos. Es obligatorio cambiar la contraseña cada 90 días y no se deben reutilizar contraseñas anteriores. No se permite compartir credenciales bajo ninguna circunstancia. En caso de olvido, se puede restablecer a través del portal de autoservicio de contraseñas.
+
+POLÍTICA DE ACCESO REMOTO (VPN)
+El acceso remoto a la red corporativa se realiza exclusivamente mediante la VPN oficial. Los empleados deben autenticarse con MFA (autenticación multifactor). Está prohibido conectarse desde redes públicas sin VPN activa. Los accesos remotos son monitoreados para garantizar la seguridad. Cualquier intento de acceso no autorizado será reportado al equipo de Seguridad Informática.
+
+POLÍTICA DE CORREO ELECTRÓNICO CORPORATIVO
+El correo electrónico corporativo es una herramienta de trabajo y debe usarse exclusivamente para fines laborales. Está prohibido reenviar información confidencial a cuentas personales. Los correos con archivos adjuntos sospechosos deben ser reportados inmediatamente como “phishing” usando la opción disponible en el cliente de correo. El buzón tiene una capacidad máxima de 10 GB; los usuarios deben eliminar correos innecesarios regularmente.
+
+POLÍTICA DE INSTALACIÓN DE SOFTWARE
+Solo el personal autorizado del área de TI puede instalar software en los equipos corporativos. Las solicitudes de instalación deben realizarse mediante el formulario de requerimientos técnicos. Todo software debe tener licencia válida y aprobación previa. Se prohíbe expresamente la instalación de juegos, programas de intercambio P2P o herramientas de anonimización.
+
+POLÍTICA DE ACTUALIZACIONES Y PARCHES
+Los equipos deben permanecer encendidos y conectados durante las ventanas de mantenimiento programadas para permitir la instalación de actualizaciones automáticas. Los parches críticos de seguridad se aplican semanalmente. Los empleados no deben posponer indefinidamente las actualizaciones del sistema operativo ni del antivirus.
+
+POLÍTICA DE USO DE RED Y WIFI CORPORATIVA
+El acceso a la red Wi-Fi corporativa está limitado a dispositivos autorizados. No se permite compartir credenciales ni crear puntos de acceso personales. El tráfico se monitorea para asegurar el cumplimiento de las políticas de seguridad. Las redes de invitados están disponibles para contratistas o visitantes previa solicitud al área de TI.
+
+POLÍTICA DE RESPALDOS Y ALMACENAMIENTO
+Los archivos deben guardarse exclusivamente en las carpetas corporativas o en el servicio de almacenamiento en la nube autorizado (OneDrive o SharePoint). No se recomienda almacenar información en discos locales. Los respaldos automáticos se ejecutan cada 24 horas. En caso de pérdida de información, se debe contactar al área de soporte para recuperación.
+
+POLÍTICA DE INCIDENTES DE SEGURIDAD
+Cualquier sospecha de ataque, virus, acceso no autorizado o pérdida de datos debe reportarse de inmediato al equipo de Seguridad Informática mediante el correo seguridad@empresa.com. Los empleados deben abstenerse de intentar resolver incidentes graves por cuenta propia. El equipo de seguridad evaluará el riesgo y tomará las medidas correspondientes.
+
+POLÍTICA DE SOPORTE A DISPOSITIVOS MÓVILES
+Los dispositivos móviles corporativos deben tener instalada la aplicación de gestión MDM para garantizar la seguridad. En caso de pérdida o robo, se debe reportar de inmediato a soporte para el bloqueo remoto. Está prohibido el uso de dispositivos personales para acceder a sistemas corporativos sin autorización previa.
+
+POLÍTICA DE USO DE SISTEMAS CORPORATIVOS (ERP, CRM, ETC.)
+El acceso a los sistemas corporativos se otorga de acuerdo con el rol y nivel de autorización del empleado. Cualquier solicitud de acceso adicional debe contar con la aprobación del gerente responsable. Los usuarios deben cerrar sesión al finalizar su jornada y nunca dejar sesiones abiertas en equipos compartidos.
+
+POLÍTICA DE TICKETS Y NIVELES DE SERVICIO (SLA)
+Todas las solicitudes de soporte deben registrarse mediante ticket. El tiempo de respuesta depende del nivel de severidad:
+- Nivel 1 (crítico): respuesta en 1 hora, resolución en 4 horas.
+- Nivel 2 (medio): respuesta en 4 horas, resolución en 24 horas.
+- Nivel 3 (bajo): respuesta en 8 horas, resolución en 48 horas.
+El progreso puede consultarse en el portal de soporte.
+
+POLÍTICA DE CAPACITACIÓN TECNOLÓGICA
+Todos los empleados deben completar las capacitaciones obligatorias de seguridad informática y uso de herramientas digitales al menos una vez al año. Se ofrecen sesiones en línea y presenciales sobre buenas prácticas tecnológicas, ciberseguridad y uso eficiente de los sistemas.
+
+POLÍTICA DE DISPOSICIÓN Y REEMPLAZO DE EQUIPOS
+Los equipos obsoletos o dañados se retiran siguiendo el procedimiento de disposición segura de activos tecnológicos. Los discos duros se destruyen conforme a normas de seguridad. El reemplazo de equipos se realiza cada 3 años o cuando el rendimiento afecta las operaciones.
+
+POLÍTICA DE CONFIDENCIALIDAD TECNOLÓGICA
+Toda información almacenada o procesada en los sistemas corporativos es propiedad de la empresa. Está prohibido copiar, transferir o divulgar datos sin autorización. Los registros de actividad se mantienen para fines de auditoría y seguridad.
+
+POLÍTICA DE SOPORTE FUERA DE HORARIO
+Los incidentes críticos fuera del horario laboral pueden reportarse a la línea de emergencia tecnológica disponible 24/7. Solo se atenderán casos que afecten operaciones críticas. Los incidentes no urgentes se gestionarán el siguiente día hábil.
+
+POLÍTICA DE HARDWARE PERSONAL
+No se permite conectar dispositivos personales (como memorias USB o discos externos) a equipos corporativos sin la autorización del área de TI. Los dispositivos no autorizados representan un riesgo de seguridad y pueden ser bloqueados automáticamente por el sistema.
+
+POLÍTICA DE MANTENIMIENTO PREVENTIVO
+El área de TI realiza mantenimiento preventivo trimestral de los equipos y servidores. Los empleados serán notificados con antelación sobre cualquier intervención planificada. El objetivo es prevenir fallas y garantizar el rendimiento óptimo de los sistemas.
+
+---
+NOTA: Estas políticas son ejemplos de referencia y deben personalizarse según la infraestructura tecnológica y las políticas internas de cada empresa.
